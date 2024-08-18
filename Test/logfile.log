@@ -1,0 +1,36 @@
+2024-08-17 09:50:00,928 :INFO : test_login :Opened Linkedin.com
+2024-08-17 09:51:26,925 :INFO : test_login :Opened Linkedin.com
+2024-08-17 09:59:00,279 :INFO : test_login :Opened Linkedin.com
+2024-08-17 09:59:24,870 :INFO : test_login :Opened sign in page
+2024-08-17 10:00:15,317 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:00:16,667 :INFO : test_login :Opened sign in page
+2024-08-17 10:07:35,706 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:07:37,312 :INFO : test_login :Opened sign in page
+2024-08-17 10:07:38,236 :INFO : test_login :Entered credentials
+2024-08-17 10:13:20,817 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:13:22,623 :INFO : test_login :Opened sign in page
+2024-08-17 10:13:23,402 :INFO : test_login :Entered credentials
+2024-08-17 10:13:33,775 :INFO : test_login :assertion to verify login success
+2024-08-17 10:42:39,203 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:42:45,536 :INFO : test_login :Opened sign in page
+2024-08-17 10:42:46,083 :INFO : test_login :Entered credentials
+2024-08-17 10:42:56,419 :INFO : test_login :assertion to verify login success
+2024-08-17 10:44:14,649 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:44:16,201 :INFO : test_login :Opened sign in page
+2024-08-17 10:44:16,995 :INFO : test_login :Entered credentials
+2024-08-17 10:44:27,329 :INFO : test_login :assertion to verify login success
+2024-08-17 10:47:24,499 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:47:30,778 :INFO : test_login :Opened sign in page
+2024-08-17 10:47:31,426 :INFO : test_login :Entered credentials
+2024-08-17 10:47:51,492 :INFO : test_login :Profile name: Francis Egbujor
+2024-08-17 10:47:51,493 :INFO : test_login :assertion to verify login success
+2024-08-17 10:56:28,863 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:56:30,238 :INFO : test_login :Opened sign in page
+2024-08-17 10:56:30,768 :INFO : test_login :Entered credentials
+2024-08-17 10:58:11,539 :INFO : test_login :Profile name: Francis Egbujor
+2024-08-17 10:58:11,540 :INFO : test_login :assertion to verify login success
+2024-08-17 10:59:04,427 :INFO : test_login :Opened Linkedin.com
+2024-08-17 10:59:05,613 :INFO : test_login :Opened sign in page
+2024-08-17 10:59:06,133 :INFO : test_login :Entered credentials
+2024-08-17 10:59:14,204 :INFO : test_login :Profile name: Francis Egbujor
+2024-08-17 10:59:14,205 :INFO : test_login :assertion to verify login success
